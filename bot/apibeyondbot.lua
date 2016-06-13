@@ -234,7 +234,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {157059515,103214508},--Sudo users
+    sudo_users = {172178919},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Api TeleBeyond V1.0 Open Source
 An Advanced Administration Api Bot Based On TeleSeed Written In Lua
@@ -243,93 +243,85 @@ Source On GitHub :
 http://GitHub.com/BeyondTeam/Api-TeleBeyond
 
 Sudo Users :
+@crazyboy10 [172178919]
 
-Developer&Founder : @SoLiD021
-
-Developer&Manager : @idivanmanheb
-
-Team Channel :
-Telegram.me/BeyondTeam
-
-Special Thx To :
-@MrHalix
-@TeleProTeam
-And All My Friends :D
 ]],
     help_text_realm = [[
-Realm TeleBeyond Commands:
+Realm TeleBeyond Commands: 😐🎈
 
-!creategroup [Name]
-Create a group
-
+!creategroup [Name]                                        Create a group
+ 🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈            
 !createrealm [Name]
 Create a realm
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !setname [Name]
 Set realm name
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !setabout [group|sgroup] [GroupID] [Text]
 Set a group's about text
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !setrules [GroupID] [Text]
 Set a group's rules
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !lock [GroupID] [setting]
 Lock a group's setting
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !unlock [GroupID] [setting]
 Unock a group's setting
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !settings [group|sgroup] [GroupID]
 Set settings for GroupID
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !wholist
 Get a list of members in group/realm
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !who
 Get a file of members in group/realm
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !type
 Get group type
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !kill chat [GroupID]
 Kick all memebers and delete group
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !kill realm [RealmID]
 Kick all members and delete realm
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !addadmin [id|username]
 Promote an admin by id OR username *Sudo only
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !removeadmin [id|username]
 Demote an admin by id OR username *Sudo only
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !list groups
 Get a list of all groups
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !list realms
 Get a list of all realms
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !support
 Promote user to support
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !-support
 Demote user from support
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !log
 Get a logfile of current group or realm
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !broadcast [text]
 !broadcast Hello !
 Send text to all groups
 Only sudo users can run this command
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !bc [group_id] [text]
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
 
-**You can use "#", "!", or "/" to begin all commands
+**حاجی تو میتونی بااین علامت ها کد هارو اجرا کنی"#", "!", or "/" 
+
+
+برو حالشوببر 🎈😐
 
 
 *Only admins and sudo can add bots in group
@@ -343,17 +335,17 @@ Channel : @BeyondTeam
 Source : GitHub.com/BeyondTeam/Api-TeleBeyond
 ]],
     help_text = [[
-Commands list :
+Commands list :🎈�:|
 
 !kick [username|id]
 You can also do it by reply
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !ban [ username|id]
 You can also do it by reply
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !unban [id]
 You can also do it by reply
-
+🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
 !who
 Members list
 
@@ -469,9 +461,7 @@ will return group ban list
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only owner can use res,setowner,promote,demote and log commands
-TeleBeyond V1.0
-Channel : @BeyondTeam
-Source : GitHub.com/BeyondTeam/Api-TeleBeyond
+
 ]],
 	help_text_super =[[
 SuperGroup Commands:
@@ -608,9 +598,7 @@ Returns group logs
 *Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
 
 *Only owner can use res, setowner, promote, demote, and log commands
-TeleBeyond V1.0
-Channel : @BeyondTeam
-Source : GitHub.com/BeyondTeam/Api-TeleBeyond
+
 ]],
   }
   serialize_to_file(config, './data/config.lua')
